@@ -1,0 +1,16 @@
+{
+    "id": "nl.regoor.mobileclient",
+    "name": {
+        "en": "Mobile Client"
+    },
+    "version": "1.0.2",
+    "compatibility": "0.x || 1.x",
+    "author": {
+        "name": "Serge Regoor",
+        "email": "serge@regoor.nl"
+    },
+    "permissions": [
+    	"homey:app:nl.regoor.statecontrol",
+    	"homey:app:nl.regoor.wirelesskeypad"
+    ]
+}
